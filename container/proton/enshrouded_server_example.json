@@ -11,7 +11,7 @@
     "playerHealthFactor": 1,
     "playerManaFactor": 1,
     "playerStaminaFactor": 1,
-    "enableDurability": true,
+    "enableDurability": false,
     "enableStarvingDebuff": false,
     "foodBuffDurationFactor": 1,
     "fromHungerToStarving": 600000000000,
